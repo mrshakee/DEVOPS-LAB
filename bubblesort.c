@@ -12,6 +12,7 @@ int main(){
             if(a[i]>a[j]){
                 temp=a[i];
                 a[i]=a[j];
+                main:
                 a[j]=temp;
                 
             }
