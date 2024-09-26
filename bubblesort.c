@@ -21,6 +21,13 @@ int main(){
     printf("sorted array list is : \n");
     for ( i = 0; i < n; i++)
     {
+
+
+
+
+
+
+        
        printf("%d \n",a[i]);/* code */
     }
     
